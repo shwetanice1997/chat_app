@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "343238736407",
+    "firebase_url": "https://authentication-a1ecf.firebaseio.com",
+    "project_id": "authentication-a1ecf",
+    "storage_bucket": "authentication-a1ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343238736407:android:ec795201ca413c1cde3a52",
+        "android_client_info": {
+          "package_name": "com.chat.chatting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343238736407-3dm1eheqd9ktej82hr1cvhq9ojsg8uk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rPy2oXh8F7YbAn0L5nkyhvUpR_35UpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343238736407-3dm1eheqd9ktej82hr1cvhq9ojsg8uk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
